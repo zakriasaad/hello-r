@@ -5,3 +5,4 @@ name= "zakria"
 age= "25"
 print(name)
 
+city= "karachi"
